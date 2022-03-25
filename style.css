@@ -1,0 +1,13 @@
+.image-overlay img:only-of-type:nth-child(1) {
+    object-fit: cover;
+    opacity: .4;
+}
+
+h1 {
+    position: fixed;
+    top: 300px
+}
+/*.image-overlay img:only-of-type:nth-child(1) {
+    object-fit: cover;
+    opacity: .4;
+}*/
